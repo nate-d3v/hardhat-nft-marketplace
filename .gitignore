@@ -1,0 +1,9 @@
+node_modules
+.env
+/coverage
+yarn-error.log
+artifacts
+cache
+deployments
+coverage.json
+gas-report.txt
